@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentBasic</string>
+
+    <string name="title">Intent Basic</string>
+    <string name="titleMain">Message Here</string>
+    <string name="next">Next Page</string>
+</resources>
